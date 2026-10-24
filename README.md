@@ -23,6 +23,7 @@ I turn messy, real-world data into clear business decisions: cleaning it in **Py
 
 | Project | What it shows | Tools |
 |---|---|---|
+| [**Gulf Market Tracker (Stock Market)**](https://github.com/umairasifofficalll-code/gulf-market-tracker-dashboard) · [live dashboard](https://umairasifofficalll-code.github.io/gulf-market-tracker-dashboard/) | 12 Gulf stocks over 3+ years: returns, volatility, Sharpe, beta, drawdown and correlations. Best risk-adjusted stock had a Sharpe of 1.03 at half the market's volatility. | Python · pandas · JavaScript |
 | [**Dubai Real Estate Market Analyzer**](https://github.com/umairasifofficalll-code/Dubai-Real-Estate-Market-Analyzer) · [live dashboard](https://umairasifofficalll-code.github.io/Dubai-Real-Estate-Market-Analyzer/dashboard/dubai_real_estate_dashboard.html) | 1,800 property sales: best rental-yield areas, a Simpson's-paradox check on off-plan pricing, and a regression explaining 91% of price. | Python · Statistics · Power BI |
 | [**Lahore Smog Impact Tracker**](https://github.com/umairasifofficalll-code/Lahore-Air-Quality-vs.-Daily-Life-Smog-Impact-Tracker) | 26,000+ hourly air-quality readings linked to hospital admissions and policy changes. Hazardous days pushed respiratory admissions up 81%. | Python · MySQL · Power BI |
 | [**Lahore Food Delivery Delays**](https://github.com/umairasifofficalll-code/Lahore-Food-Delivery-Delay-Analysis) | 51,150 orders analysed to find where and when deliveries run late. Ramadan iftar demand lifted orders 26.5%. | Python · MySQL · Power BI |
